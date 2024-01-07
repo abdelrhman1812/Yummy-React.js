@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Yummy-React.js/static/css/main.a8e0e52a.css",
+    "main.css": "/Yummy-React.js/static/css/main.317b8521.css",
     "main.js": "/Yummy-React.js/static/js/main.8f6422a0.js",
     "static/media/1.jpg": "/Yummy-React.js/static/media/1.aed6c78034ddc011c13c.jpg",
     "static/media/fa-solid-900.ttf": "/Yummy-React.js/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -28,11 +28,11 @@
     "static/media/slick.ttf": "/Yummy-React.js/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Yummy-React.js/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Yummy-React.js/index.html",
-    "main.a8e0e52a.css.map": "/Yummy-React.js/static/css/main.a8e0e52a.css.map",
+    "main.317b8521.css.map": "/Yummy-React.js/static/css/main.317b8521.css.map",
     "main.8f6422a0.js.map": "/Yummy-React.js/static/js/main.8f6422a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8e0e52a.css",
+    "static/css/main.317b8521.css",
     "static/js/main.8f6422a0.js"
   ]
 }
